@@ -17,6 +17,8 @@ This project performs data cleaning, analysis, and indexing on a large dataset o
 - Pandas
 - Matplotlib (used but no visualization is shown in the current version)
 - Elasticsearch
+- go to this link for downloading the large data : https://github.com/datablist/sample-csv-files
+- download this sample : "people-500000.csv - People CSV with 500000 records" 
 
 ## How to Run
 1. Install the required packages:
