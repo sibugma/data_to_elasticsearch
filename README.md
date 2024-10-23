@@ -1,5 +1,5 @@
 # data_to_elasticsearch
-# People Data Processing and Elasticsearch Indexing
+### People Data Processing and Elasticsearch Indexing
 
 ## Overview
 This project performs data cleaning, analysis, and indexing on a large dataset of people's information (500,000 rows). It reads a CSV file, cleans the data, performs some basic analysis, and then indexes the cleaned data into Elasticsearch for further use.
